@@ -1,4 +1,4 @@
-# Predict Damage to a building - ML Challenge on Hackerearth
+# Predict Damage to a building
 
 Determining the degree of damage that is done to buildings post an earthquake can help identify safe and unsafe buildings, thus avoiding death and injuries resulting from aftershocks.  Leveraging the power of machine learning is one viable option that can potentially prevent massive loss of lives while simultaneously making rescue efforts easy and efficient.
 
@@ -7,9 +7,6 @@ In this challenge we are provided with the before and after details of nearly on
 ## Goal of the Project:
 our task is to __build a model that can predict the extent of damage that has been done to a building after an earthquake.__
 
-
-## Achievements about this project:
-- __Rank 92__ out of 7540 on public [leaderboard](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/leaderboard). 
 
 ## Data Variables Description:
 
